@@ -5,8 +5,7 @@
 ### You can call me 1rin or Ichrin.
 
 - I'm a student from China.
-- My blog is [Ichrin's SHELTER](https://shelter.ichrin.eu.org)
-
+- My another account is github.com/ichrin
 Visitor Count
 <p align="center">
 <img src="https://visitor-count-b8lb.vercel.app/api/1rin" />
